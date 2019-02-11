@@ -1,6 +1,7 @@
 #include <Windows.h>
 #include <iostream>
 #include <conio.h>
+#include <cassert>
 
 #include <SimpleIni.h>
 #include <atomic>
